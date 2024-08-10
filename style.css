@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+.box {
+    border: 10px solid red;
+    font-size: 32px;
+    padding: 80px 140px;
+    text-align: justify;
+    line-height: 1.6;
+    background-image: radial-gradient(yellow, blue);
+}
